@@ -47,11 +47,11 @@ Things I learned:
 #
 
 ### Project 3 (Minimized)
-<div float="left">
+<div align="left">
       Horizontal Listing
   </div>
- <div float="right" padding= 20px>
-      Horizontal Listing
+ <div align="right">
+      (Esc Pressed) Giant Listing
  </div>  
 <img align="left" width="420" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.06.50%20PM.png">
 
