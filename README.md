@@ -47,9 +47,11 @@ Things I learned:
 #
 
 ### Project 3 (Minimized)
+
 <div align="left">
       Horizontal Listing
   </div>
+  
  <div align="right">
       (Esc Pressed) Giant Listing
  </div> 
