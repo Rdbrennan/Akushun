@@ -1,6 +1,6 @@
-# Weclome to Creatility
+# Weclome to Akushun
 
-![FlappyFlapLogo](https://github.com/Rdbrennan/Portfolio-Website/blob/master/Img/Screen%20Shot%202018-09-18%20at%2010.00.00%20PM.png)
+![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
 
 
 # Projects
