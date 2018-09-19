@@ -6,8 +6,9 @@ Goal:
 
 ### Project 1 - 
 
-![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.47.36%20PM.png)
-
+<p align="center">
+<img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.47.36%20PM.png">
+  </p>
 
 ### Project 2 - 
 
@@ -18,12 +19,13 @@ Goal:
 
 ### Project 3 (Final)- 
 
-![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
-
+<p align="center">
+<img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png">
+  </p>
 
 ### Project 3 (Minimized)
 
-<img align="left" width="400" height="800" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.06.50%20PM.png">
+<img align="left" width="425" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.06.50%20PM.png">
 
-<img align="right" width="400" height="800" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.07.27%20PM.png">
+<img align="right" width="425" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.07.27%20PM.png">
 
