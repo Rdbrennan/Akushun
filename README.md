@@ -25,7 +25,7 @@ Goal:
 
 ### Project 3 (Minimized)
 
-<img align="left" width="425" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.06.50%20PM.png">
+<img align="left" width="420" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.06.50%20PM.png">
 
-<img align="right" width="425" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.07.27%20PM.png">
+<img align="right" width="420" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.07.27%20PM.png">
 
