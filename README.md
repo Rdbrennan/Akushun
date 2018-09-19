@@ -4,7 +4,7 @@ Goal: To learn core browser programming with flexbox, media queries, javascript 
 
 # Projects
 
-### Project 1 - 
+### Project 1 - Responsive Layouts with Flexbox
 
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.47.36%20PM.png">
@@ -12,13 +12,13 @@ Goal: To learn core browser programming with flexbox, media queries, javascript 
 
 Things I learned:
 
-  ● Xcode view hierarchy and transitioning
+  ● 
   
-  ● Spritekit scene presentation and release
+  ● 
   
 #
 
-### Project 2 - 
+### Project 2 - Adaptive Layouts with Media Queries
 
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.59.35%20PM.png">
@@ -26,13 +26,13 @@ Things I learned:
   
 Things I learned:
 
-  ● Xcode view hierarchy and transitioning
+  ● 
   
-  ● Spritekit scene presentation and release
+  ● 
   
 #
 
-### Project 3 (Final)- 
+### Project 3 (Final)- Handling Events with JavaScript
 
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png">
@@ -40,9 +40,9 @@ Things I learned:
   
 Things I learned:
 
-  ● Xcode view hierarchy and transitioning
+  ● 
   
-  ● Spritekit scene presentation and release
+  ● 
   
 #
 
@@ -63,8 +63,8 @@ Things I learned:
 
 Things I learned:
 
-  ● Xcode view hierarchy and transitioning
+  ● 
   
-  ● Spritekit scene presentation and release
+  ● 
   
 #
