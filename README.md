@@ -1,5 +1,5 @@
 # Weclome to Akushun
-Goal: 
+Goal: To learn core browser programming with flexbox, media queries, javascript events and visual effects with CSS. 
 
 
 # Projects
@@ -23,6 +23,7 @@ Things I learned:
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.59.35%20PM.png">
   </p>
+  
 Things I learned:
 
   ● Xcode view hierarchy and transitioning
