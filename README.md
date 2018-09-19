@@ -10,18 +10,40 @@ Goal:
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.47.36%20PM.png">
   </p>
 
+Things I learned:
+
+  ● Xcode view hierarchy and transitioning
+  
+  ● Spritekit scene presentation and release
+  
+#
+
 ### Project 2 - 
 
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.59.35%20PM.png">
   </p>
+Things I learned:
 
+  ● Xcode view hierarchy and transitioning
+  
+  ● Spritekit scene presentation and release
+  
+#
 
 ### Project 3 (Final)- 
 
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png">
   </p>
+  
+Things I learned:
+
+  ● Xcode view hierarchy and transitioning
+  
+  ● Spritekit scene presentation and release
+  
+#
 
 ### Project 3 (Minimized)
 
