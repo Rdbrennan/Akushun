@@ -1,6 +1,5 @@
 # Weclome to Akushun
-
-![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
+Goal: 
 
 
 # Projects
@@ -14,13 +13,9 @@
 
 ![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
 
-### Project 3 - 
+### Project 3 (Final)- 
 
 ![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
 
-
-### Project 4 -
-
-![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
 
 
