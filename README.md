@@ -11,7 +11,7 @@ Goal:
 
 ### Project 2 - 
 
-![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
+![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.59.35%20PM.png)
 
 ### Project 3 (Final)- 
 
