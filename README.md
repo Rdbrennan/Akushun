@@ -1,4 +1,5 @@
-# Weclome to Akushun
+# Weclome to Akushun ⛩
+
 Goal: To learn core browser programming with flexbox, media queries, javascript events and visual effects with CSS. 
 
 
