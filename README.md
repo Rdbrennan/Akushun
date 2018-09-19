@@ -11,7 +11,7 @@ Goal:
 
 ### Project 2 - 
 
-<img align="center" width="800" height="700" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.59.35%20PM.png">
+<img align="center" width="900" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%202.59.35%20PM.png">
 
 ### Project 3 (Final)- 
 
