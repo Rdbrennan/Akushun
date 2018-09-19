@@ -18,4 +18,6 @@ Goal:
 ![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-18%20at%2010.17.44%20PM.png)
 
 
+### Project 3 (Minimized)
 
+![Akushun](https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.06.50%20PM.png)
