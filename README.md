@@ -62,6 +62,8 @@ Things I learned:
 <img align="right" width="420" height="500" src="https://github.com/Rdbrennan/Akushun/blob/master/img/Screen%20Shot%202018-09-19%20at%203.07.27%20PM.png">
 
 
+
+
 Things I learned:
 
   ● 
