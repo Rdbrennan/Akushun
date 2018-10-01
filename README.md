@@ -13,9 +13,9 @@ Goal: To learn core browser programming with flexbox, media queries, javascript 
 
 Things I learned:
 
-  ● 
+  ● Manipulating flex containers and the flex-direction
   
-  ● 
+  ● Grouping flex items and aligning each item 
   
 #
 
@@ -27,9 +27,9 @@ Things I learned:
   
 Things I learned:
 
-  ● 
+  ● To make a responsive layout based on the width of the viewport
   
-  ● 
+  ● How to create the "Holy Grail Layout"
   
 #
 
@@ -41,9 +41,9 @@ Things I learned:
   
 Things I learned:
 
-  ● 
+  ● Writing script functions and using DOM elements
   
-  ● 
+  ● Adding event listeners and closures
   
 #
 
@@ -67,8 +67,12 @@ Things I learned:
 
 Things I learned:
 
-  ● 
+  ● Visual effects with css
   
-  ● 
+  ● Working with the transform property and state changes
+  
+  ● Timing effects and javascript transitions
+  
+  ● the cubic bezier
   
 #
