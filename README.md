@@ -73,6 +73,6 @@ Things I learned:
   
   ● Timing effects and javascript transitions
   
-  ● the cubic bezier
+  ● The cubic bezier
   
 #
